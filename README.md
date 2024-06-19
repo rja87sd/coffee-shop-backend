@@ -76,8 +76,10 @@ const productSchema = new mongoose.Schema({
 
 const Product = mongoose.model('Product', productSchema);
 
-module.exports = Product;
-
+module.exports = Product;  
+  
+  ![alt text](./documentation/image-5.png)
+  
 ## Part 3: Implement Basic CRUD Operations
 ### Set Up the Routes:
 
