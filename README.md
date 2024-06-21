@@ -205,18 +205,24 @@ Body: JSON
   "stock": 100,
   "imageUrl": "http://example.com/mug.jpg"
 }
-Screenshot the POST request and response.
-Get All Products:
+Screenshot the POST request and response.  
+  ![alt text](./documentation/image-6.png)
+
+### Get All Products:
 
 Method: GET
 URL: http://localhost:3000/products
-Screenshot the GET request and response.
-Get a Single Product by ID:
+Screenshot the GET request and response.  
+  ![alt text](./documentation/image-7.png)
+
+### Get a Single Product by ID:
 
 Method: GET
 URL: http://localhost:3000/products/<product_id>
-Screenshot the GET request and response.
-Update a Product by ID:
+Screenshot the GET request and response.  
+  ![alt text](./documentation/image-8.png)
+
+### Update a Product by ID:
 
 Method: PUT
 URL: http://localhost:3000/products/<product_id>
@@ -230,16 +236,16 @@ Body: JSON
   "imageUrl": "http://example.com/mug.jpg"
 }
 
-Screenshot the PUT request and response.
-
+Screenshot the PUT request and response.  
+  ![alt text](./documentation/image-9.png)
 
 ### Delete a Product by ID:
 
 Method: DELETE
 URL: http://localhost:3000/products/<product_id>
 
-Screenshot the DELETE request and response.
-
+Screenshot the DELETE request and response.  
+  ![alt text](./documentation/image-10.png)
 
 # Submission
 ## GitHub Repository: 
